@@ -1,6 +1,6 @@
 # junit-5-bdd
 
-Welcome to junit-5-bdd!
+Sample project for behavior driven development with JUnit 5. See https://blog.codecentric.de/2018/09/behavior-driven-development-mit-junit-5.
 
 ## Contribution policy
 
